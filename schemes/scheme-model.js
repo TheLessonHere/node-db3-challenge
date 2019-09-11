@@ -4,7 +4,7 @@ module.exports = {
     find,
     findById,
     findSteps,
-    insert,
+    add,
     update,
     remove
 };
